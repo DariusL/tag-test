@@ -31,7 +31,7 @@ setup(name='foobar',
       author='Arxan Technologies, Inc.',
       author_email='devops@arxan.com',
       url='http://www.arxan.com',
-      description='Python TestDriver.',
+      description='not the foobar music player',
       zip_safe=False,
       )
 
